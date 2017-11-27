@@ -1,0 +1,10 @@
+[classes]
+# Exclude our GlobalModule class for introspection purposes
+GlobalModule
+Provider\Module
+GoldenCodes\DynamicAttributes\Traits\hasDynamicAttributes
+[methods]
+getName
+[functions]
+fn1 # used with preg_replace so we mustn't obfuscate
+fn2
