@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "php": "^7.0"
+        "php": "^7.0",
         "goldencodes/base-encoded":"0.*"
     },
     "autoload": {
