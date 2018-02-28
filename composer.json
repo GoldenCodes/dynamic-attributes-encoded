@@ -1,16 +1,16 @@
 {
-    "name": "goldencodes/dynamic-attrs-encoded",
-    "description": "Golden Codes: Dynamic Attributes Encoded",
+    "name": "goldencodes/dynamic-attributes",
+    "description": "Golden Codes: Dynamic Attributes",
     "type": "library",
     "authors": [
         {
             "name": "Paulo Oliveira",
             "email": "paulo@golden.codes"
         }
-    ],
+    ],    
     "require": {
         "php": "^7.0",
-        "goldencodes/base-encoded":"0.*"
+        "goldencodes/base":"0.*"
     },
     "autoload": {
         "psr-4": {
