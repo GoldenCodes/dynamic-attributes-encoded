@@ -15,7 +15,10 @@
     "autoload": {
         "psr-4": {
             "GoldenCodes\\DynamicAttributes\\": "src/"
-        }
+        },
+        "files": [
+            "src/helpers.php"
+        ]
     },
     "minimum-stability": "dev",
     "prefer-stable": true
