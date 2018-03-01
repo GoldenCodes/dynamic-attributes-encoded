@@ -1,1 +1,1 @@
-# gc-laravel-dynamic-attributes-encoded
+# Golden Codes Dynamic Attributes

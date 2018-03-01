@@ -7,7 +7,7 @@
             "name": "Paulo Oliveira",
             "email": "paulo@golden.codes"
         }
-    ],    
+    ],
     "require": {
         "php": "^7.0",
         "goldencodes/base":"0.*"
@@ -23,3 +23,4 @@
     "minimum-stability": "dev",
     "prefer-stable": true
 }
+
